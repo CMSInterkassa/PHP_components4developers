@@ -1,4 +1,4 @@
-//Withdraw example of formation Withdraw 
+//example of Withdraw formation  
 <?php
 $ch = curl_init();
         $header = array(
