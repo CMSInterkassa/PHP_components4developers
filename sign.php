@@ -19,7 +19,7 @@ $dataSet = array (
 		
 				
 		);
-$key = "VYZ1aGgkqmzyQshG";
+$key = "VYZ1aGgkqmzyQshG"; //В данном случае используется "Секретный ключ"
 
 //unset($dataSet['ik_sign']); удаляем из данных строку подписи
 ksort($dataSet, SORT_STRING); // сортируем по ключам в алфавитном порядке элементы массива
